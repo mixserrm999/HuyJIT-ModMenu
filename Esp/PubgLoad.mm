@@ -7,6 +7,7 @@
 
 #import "PubgLoad.h"
 #import <UIKit/UIKit.h>
+#import "include.h"
 
 #import "JHPP.h"
 #import "JHDragView.h"
