@@ -10,7 +10,7 @@
 @interface ImGuiLoad()
 @property (nonatomic, strong) ImGuiDrawView *vna;
 @end
-UIWindow *mainWindow;
+UIWindow *mainWindow2;
 @implementation ImGuiLoad
 
 + (instancetype)share
