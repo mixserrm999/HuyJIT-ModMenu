@@ -7,6 +7,8 @@
 
 #import <Foundation/Foundation.h>
 
+extern UIWindow *mainWindow;
+
 NS_ASSUME_NONNULL_BEGIN
 
 @interface PubgLoad : NSObject
